@@ -1,6 +1,6 @@
 import React from "react";
 import Game from "./components/Game";
 
-const App = () => <Game />;
+class App = () => <Game />;
 
 export default App;
